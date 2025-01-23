@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "a05eefaa336928dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d59f687431c2f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f853390675333a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2151733432ab3c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18c4ce27a82ac0e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "567a9f706ef47cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c2eda9d84b3a72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88725786a2e71e9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1968b9a7ec9aa411",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "385623c3d32d250b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d2a0005781287fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b937007b268229b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3df463a541f569",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Week Two/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "cc3d563732a2cdb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Week Two/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "9195888fb5578dad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62e3c1ced01ffdee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Week Two/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02f853390675333a",
+  "lastOpenFiles": [
+    "Lab One Details.md",
+    "Notes/Stereo.md",
+    "Notes/matrices.png",
+    "Notes/Matrices.md",
+    "Notes/Mapping of World Coordinates to Map Coordinates.md",
+    "Notes/Lab One Details.md",
+    "Notes/depthFromStereo.pdf",
+    "Notes/Depth with Cameras.md",
+    "Stereo.md",
+    "matrices.png",
+    "Matrices.md",
+    "Mapping of World Coordinates to Map Coordinates.md",
+    "depthFromStereo.pdf",
+    "Depth with Cameras.md",
+    "Notes/Week Two",
+    "Notes",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
